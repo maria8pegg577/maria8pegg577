@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @maria8pegg577
+- 👀 I’m interested in engaging experiences. I’m currently learning C#.
+- 🌱 Aspiring game developer with C# skills. Passionate about creating engaging experiences.
